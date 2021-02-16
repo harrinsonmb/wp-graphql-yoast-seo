@@ -1,7 +1,7 @@
 <?php // phpcs:ignore
 
 /**
- * Plugin Name:     Add WPGraphQL SEO
+ * Plugin Name:     WPGraphQL for Yoast SEO
  * Plugin URI:      https://github.com/ashhitch/wp-graphql-yoast-seo
  * Description:     A WPGraphQL Extension that adds support for Yoast SEO
  * Author:          Ash Hitchcock
